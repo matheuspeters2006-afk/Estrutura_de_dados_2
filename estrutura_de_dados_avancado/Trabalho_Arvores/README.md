@@ -44,7 +44,7 @@ text
 Link do jogo (BST-AVL)
 https://visualgo.net/en/bst
     
-Arthur Arraes
+Arthur Arraes / https://github.com/arthurarraestt-spec/Estrutura_de_Dados_II
 
 Natan Adriel / https://github.com/natanllr
 
